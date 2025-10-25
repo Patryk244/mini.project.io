@@ -26,3 +26,8 @@ main.py - punkt wejścia aplikacji
 requirements.txt - zależności (Streamlit, Pandas, Plotly, Requests)
 
 Projekt demonstruje podstawową integrację z REST API oraz tworzenie interaktywnych dashboardów z wykresami.
+
+Oto przykladowy rzut z ekranu: 
+<img width="896" height="676" alt="image" src="https://github.com/user-attachments/assets/7b2f2d55-22a5-43eb-b49c-3d65b36f15ab" />
+
+Korzystłem z AI np zeby pokaz mi jak tworzyc dany wykres oraz do przypomnia pisania kodu w python. Rownież kiedy jeden z wykresow nie chcail sie zaczytac prawidłow skorzystałem z pomocy AI.
